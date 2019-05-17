@@ -1,2 +1,2 @@
 # twitter-clone
-Twitter-Like app
+Twitter-Like app with Python
